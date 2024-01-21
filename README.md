@@ -16,7 +16,7 @@
 Oldagram is a simple and responsive web application that displays a feed of posts, mimicking a social media platform.
 
 <p align="center">
-  <img src="/images/app-screenshot.png" alt="App screenshot">
+  <img src="public/app-screenshot.png" alt="App screenshot">
 </p>
 
 ## Demo
